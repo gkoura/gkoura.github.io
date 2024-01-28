@@ -1,0 +1,84 @@
+@import "../../vars.css";
+
+.cardContainer{
+
+    background: #19376D;
+    background: -moz-linear-gradient(top, #19376D 0%, #0b2447 100%);
+    background: -webkit-linear-gradient(top, #19376D 0%, #0b2447 100%);
+    background: linear-gradient(to bottom, #19376D 0%, #0b2447 100%);
+    
+    max-width: 360px;
+    min-width: 300px;
+    text-align: center;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5% 2%;
+    gap: 3rem;
+}
+
+.iconContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    background-color: var(--color-dark);
+    border-radius: 50%;
+}
+
+.cardIcon {
+    width: 90px;
+    height: 90px;
+}
+
+.cardTitle {
+    color: var(--color-text);
+    font-size: 1.8rem;
+    font-family: var(--font-roboto);
+}
+
+.skillsList {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.skillsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.skillIcon {
+    width: 80px;
+}
+
+.skill {
+    color: var(--color-text);
+    font-size: 1.125rem;
+    font-family: var(--font-roboto);
+}
+
+
+@media screen and (max-width: 1050px) {
+    .cardContainer {
+        width: 700px;
+        padding: 5% 0;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    .cardContainer {
+        width: 310px;
+        padding: 5% 0;
+    }
+}
+
+

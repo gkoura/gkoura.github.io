@@ -6,7 +6,7 @@ export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
   
     return (
-      <nav className={styles.navbar}>
+      <nav className={styles.navbar} id='top'>
         <a className={styles.title} href="/">
           Gregory Gkoura
         </a>

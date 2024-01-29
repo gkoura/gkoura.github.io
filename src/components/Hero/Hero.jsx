@@ -12,7 +12,7 @@ function Hero() {
         <div className={styles.BtnContainer} >
           <a className={styles.contactBtn} 
             target="_blank" rel="noopener noreferrer"
-            onClick={() => window.open("./resume.pdf")}>Download CV
+            onClick={() => window.open("/resume.pdf")}>Download CV
           </a>
           <a className={styles.contactBtn}  
             href="https://www.linkedin.com/in/gkoura/"

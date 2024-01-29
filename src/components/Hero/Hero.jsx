@@ -13,9 +13,12 @@ function Hero() {
           <a className={styles.contactBtn} 
             href="../../assets/resume.pdf" 
             target="_blank" rel="noopener noreferrer"
-            onClick={() => window.open("../../../public/resume.pdf")}>Download CV
+            onClick={() => window.open("./resume.pdf")}>Download CV
           </a>
-          <a className={styles.contactBtn}  href="https://www.linkedin.com/in/gkoura/">LinkedIn</a>
+          <a className={styles.contactBtn}  
+            href="https://www.linkedin.com/in/gkoura/"
+            target="_blank">LinkedIn
+          </a>
         </div>
       </div>
       <img className={styles.heroImg} src={getImageUrl("profile.jpeg")} alt="hero_image"/>

@@ -11,7 +11,6 @@ function Hero() {
         <h1 className={styles.title}>A Full-Stack Developer</h1>
         <div className={styles.BtnContainer} >
           <a className={styles.contactBtn} 
-            href="../../assets/resume.pdf" 
             target="_blank" rel="noopener noreferrer"
             onClick={() => window.open("./resume.pdf")}>Download CV
           </a>

@@ -79,6 +79,17 @@
   }
 
 
+/* media query for minimum laptop screen size */
+@media screen and (max-width: 1279px) { 
+    .textLink:hover {
+        color: var(--color-text);
+        font-family: var(--font-roboto);
+        font-size: 1.5rem;
+        text-decoration: none;
+    }
+  }
+
+
 @media screen and (max-width: 960px) {
     .content {
         flex-direction: column;

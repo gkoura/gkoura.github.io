@@ -56,7 +56,7 @@
 
   .menu {
     position: absolute;
-    right: 0;
+    right: 0px;
     margin-right: 5%;
     flex-direction: column;
     align-items: flex-end;
@@ -98,6 +98,12 @@
     text-decoration: none;
     text-wrap: wrap;
   }
+  
+
+  .menu {
+    top: 80px;
+  }
+
 
 
 }

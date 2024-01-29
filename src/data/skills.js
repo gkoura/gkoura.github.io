@@ -1,4 +1,4 @@
-import {getImageUrl} from "..//utils"
+import {getImageUrl} from "../utils"
 
 const skills = [
   {
@@ -8,9 +8,9 @@ const skills = [
       { HTML: getImageUrl("skills/html.png")},
       { CSS: getImageUrl("skills/css.png") },
       { JavaScript: getImageUrl("skills/javascript.png") },
-      { React: getImageUrl("skills/react.png") },
-      { Redux: getImageUrl("skills/redux.png") },
-      { NextJs: getImageUrl("skills/next.png") },
+      { React: getImageUrl("skills/react.png") },       
+      { 'Next.js': getImageUrl("skills/next.png") },
+      {Redux: getImageUrl("skills/redux.png") },
     ],
   },
   {
@@ -18,7 +18,7 @@ const skills = [
     title: "Backend",
     skills: [
       { NodeJS: getImageUrl("skills/node.png") },
-      { Express: getImageUrl("skills/express.png") },
+      { 'Express.js' : getImageUrl("skills/express.png") },
       { Django: getImageUrl("skills/django.png") },
       { PostgreSQL: getImageUrl("skills/postgress.png") },
       { MySQL: getImageUrl("skills/mysql.png") },
@@ -32,9 +32,9 @@ const skills = [
       { Git: getImageUrl("skills/git.png") },
       { GitHub: getImageUrl("skills/github.png") },
       { Docker: getImageUrl("skills/docker.png") },
-      { "VS Code": getImageUrl("skills/vscode.png") },
-      { Office: getImageUrl("skills/microsoft_office.png") },
-      { PowerBI: getImageUrl("skills/powerbi.png") },
+      { Kubernetes: getImageUrl("skills/kubernetes.png") },
+      { "VS Code": getImageUrl("skills/vscode.png") },      
+      { 'Visual Studio': getImageUrl("skills/visual_studio.png") },
     ],
   },
 ];

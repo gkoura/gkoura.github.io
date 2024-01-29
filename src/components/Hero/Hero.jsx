@@ -20,7 +20,7 @@ function Hero() {
           </a>
         </div>
       </div>
-      <img className={styles.heroImg} src={getImageUrl("profile.jpeg")} alt="hero_image"/>
+      <img className={styles.heroImg} src={getImageUrl("imgs/profile.jpeg")} alt="hero_image"/>
       <div className={styles.topBlur} ></div>
       <div className={styles.bottomBlur} ></div>
     </section>

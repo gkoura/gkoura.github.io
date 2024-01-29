@@ -5,9 +5,8 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: 50px;
     z-index: 1;
-    margin: 10%;
+    margin: 8.75rem 10%;
 }
 
 .content {

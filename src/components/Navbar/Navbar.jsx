@@ -15,8 +15,8 @@ export const Navbar = () => {
             className={styles.menuBtn}
             src={
               menuOpen
-                ? getImageUrl("closeIcon.png")
-                : getImageUrl("menuIcon.png")
+                ? getImageUrl("navbar_icons/closeIcon.png")
+                : getImageUrl("navbar_icons/menuIcon.png")
             }
             alt="menu-button"
             onClick={() => setMenuOpen(!menuOpen)}
@@ -33,6 +33,9 @@ export const Navbar = () => {
             </li>
             <li>
               <a href="#projects">Projects</a>
+            </li>
+            <li>
+              <a href="#certs">Certifications</a>
             </li>
             <li>
               <a href="#contact">Contact</a>

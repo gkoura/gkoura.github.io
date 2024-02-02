@@ -15,5 +15,16 @@ export const slides = [
     }
   ]
 
+export const courses = [
+  {
+    'Coursera - Programming Foundations with JavaScript, HTML and CSS': 'https://coursera.org/verify/KK62DCMQMZFA',
+  },
+  {
+    'Coursera - Introduction to Git and GitHub': 'https://coursera.org/verify/JTL4KTRBE7MB',
+  },
+  {
+    'Coursera - Python for Everybody Specialization Certificate': 'https://coursera.org/verify/specialization/GJVHTNKZWPLL',
+  },
+]; 
    
 

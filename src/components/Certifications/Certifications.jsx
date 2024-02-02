@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import {getImageUrl} from "../../utils"
 import styles from "./Certifications.module.css"
-import { slides } from "../../data/carouselData.json";
+import { slides } from "../../data/carouselData.js";
 
 function Certifications() {
 

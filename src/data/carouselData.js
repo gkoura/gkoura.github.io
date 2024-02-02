@@ -2,7 +2,7 @@ import {getImageUrl} from "../utils"
 
 export const slides = [
     {
-      "src": getImageUrl("certs/git.jpg"),
+      "src": getImageUrl("certs/html.jpg"),
       "alt": "Image 1 for carousel"
     },
     {
@@ -10,7 +10,7 @@ export const slides = [
       "alt": "Image 2 for carousel"
     },
     {
-      "src": getImageUrl("certs/git.jpg"),
+      "src": getImageUrl("certs/python.jpg"),
       "alt": "Image 3 for carousel"
     }
   ]

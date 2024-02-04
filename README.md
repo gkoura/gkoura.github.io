@@ -1,8 +1,11 @@
-# React + Vite
+# Gregory Gkoura - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! This repository showcases my projects, skills, and experiences.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a self-taught Full-Stack Developer with a strong background in Physics. I love tackling challenging problems and creating solutions that make a positive impact. Here's a little bit about me:
+
+- 🌐 [Personal Website](https://gkoura.github.io/)
+- 📧 Email: gkouras@icloud.com
+

@@ -8,4 +8,3 @@ I am a self-taught Full-Stack Developer with a strong background in Physics. I l
 
 - 🌐 [Personal Website](https://gkoura.github.io/)
 - 📧 Email: gkouras@icloud.com
-

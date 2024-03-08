@@ -18,7 +18,7 @@ function About() {
 					something I was truly passionate about and decided to pursue a career
 					change. It was a big decision, but I am excited to be able to do what
 					I love and help others in the process. Beyond my professional life,
-					I've been a scout for years. Tennis is another love though I don’t see
+					I've been a scout for years. Tennis is another love though I don't see
 					myself going to Wimbledon anytime soon. I embrace challenges and I
 					aspire to be a digital nomad someday.
 				</p>

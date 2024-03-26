@@ -32,7 +32,7 @@ const skills = [
       { Git: getImageUrl("skills/git.png") },
       { GitHub: getImageUrl("skills/github.png") },
       { Docker: getImageUrl("skills/docker.png") },
-      { Kubernetes: getImageUrl("skills/kubernetes.png") },
+      { "IntelliJ": getImageUrl("skills/intellij-idea-96.png") },
       { "VS Code": getImageUrl("skills/vscode.png") },      
       { 'Visual Studio': getImageUrl("skills/visual_studio.png") },
     ],
